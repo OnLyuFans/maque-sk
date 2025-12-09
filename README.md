@@ -7,7 +7,7 @@
 #### Main Features to Achieve
 
 - sign in
-- sign up
+- sign up, with the email validation
 - reset password
 - multifactor authentication
 
@@ -24,11 +24,12 @@
 #### Targeted in Depth
 
 - SvelteKit, [OpenCS](https://fitech101.aalto.fi/en/courses/web-software-development-v1/part-1/1-overview)
-  - State Management
+  - *State Management
   - Routing
   - (Stateless) UI Component
-  - Modulirazation
+  - Modulirazation, [TofuStack](https://github.com/Rykuno/TofuStack), [SvelteKitDesignPattern](https://github.com/Kreonovo/SvelteKit-Design-Pattern)
   - Reactivity
+  - ServerSideRendering(SSR)
   - (to be continued)
 - NET 9.0, especially related to Auth, [OfficialDoc](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-9.0)
   - NET Identity (**exploit**)
@@ -37,6 +38,7 @@
 
 #### Involved
 
+- Svelte5
 - Container and Containerization
 - Deno
 - PostgreSQL
