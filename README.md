@@ -9,7 +9,7 @@
 - sign in
 - sign up
 - reset password
-- multi factor authentication
+- multifactor authentication
 
 #### Primary Architecture in Brief 
 
@@ -31,8 +31,8 @@
   - Reactivity
   - (to be continued)
 - NET 9.0, especially related to Auth [OfficialDoc](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-9.0)
-  - NET Identity
-- Auth, [Lucia](https://lucia-auth.com/)
+  - NET Identity (!exploit it!)
+- Best Practices in Auth, [Lucia](https://lucia-auth.com/)
 - TypeScript
 
 #### Involved
