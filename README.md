@@ -30,8 +30,8 @@
   - Modulirazation
   - Reactivity
   - (to be continued)
-- NET 9.0, especially related to Auth [OfficialDoc](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-9.0)
-  - NET Identity (!exploit it!)
+- NET 9.0, especially related to Auth, [OfficialDoc](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-9.0)
+  - NET Identity (**exploit**)
 - Best Practices in Auth, [Lucia](https://lucia-auth.com/)
 - TypeScript
 
